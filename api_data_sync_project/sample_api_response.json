@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "name": "Leanne Graham",
+    "username": "Bret",
+    "email": "LEANNE@example.com",
+    "phone": "1-770-736-8031",
+    "website": "hildegard.org",
+    "address": {
+      "city": "Gwenborough"
+    },
+    "company": {
+      "name": "Romaguera-Crona"
+    }
+  },
+  {
+    "id": 2,
+    "name": "Ervin Howell",
+    "username": "Antonette",
+    "email": "ervin@example.com",
+    "phone": "010-692-6593",
+    "website": "anastasia.net",
+    "address": {
+      "city": "Wisokyburgh"
+    },
+    "company": {
+      "name": "Deckow-Crist"
+    }
+  },
+  {
+    "id": 3,
+    "name": "Clementine Bauch",
+    "username": "Samantha",
+    "email": "wrong-email",
+    "phone": "1-463-123-4447",
+    "website": "ramiro.info",
+    "address": {
+      "city": "McKenziehaven"
+    },
+    "company": {
+      "name": "Romaguera-Jacobson"
+    }
+  },
+  {
+    "id": 4,
+    "name": "Patricia Lebsack",
+    "username": "Karianne",
+    "email": "patricia@example.com",
+    "phone": "493-170-9623",
+    "website": "kale.biz",
+    "address": {
+      "city": "South Elvis"
+    },
+    "company": {
+      "name": "Robel-Corkery"
+    }
+  },
+  {
+    "id": 5,
+    "name": "Chelsey Dietrich",
+    "username": "Kamren",
+    "email": "ervin@example.com",
+    "phone": "(254)954-1289",
+    "website": "demarco.info",
+    "address": {
+      "city": "Roscoeview"
+    },
+    "company": {
+      "name": "Keebler LLC"
+    }
+  }
+]

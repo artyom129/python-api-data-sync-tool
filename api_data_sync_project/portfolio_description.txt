@@ -1,0 +1,14 @@
+Project title:
+Python API Data Sync Tool
+
+Short description:
+I built a Python automation tool that fetches data from a REST API, cleans and validates records, removes duplicates, stores clean data locally in SQLite, and exports the results to CSV and Excel.
+
+What it solves:
+Businesses often need to move data from APIs into spreadsheets, CRM systems, dashboards, or reports. This project automates API data import, cleanup, duplicate prevention, local storage, and report generation.
+
+Tech stack:
+Python, requests, SQLite, CSV, openpyxl, REST API automation, data cleaning.
+
+Client value:
+This automation helps businesses save time, reduce manual copy-paste work, improve data quality, and generate clean structured reports from API data.
