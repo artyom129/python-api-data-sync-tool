@@ -1,7 +1,5 @@
 # Python API Data Sync Tool
 
-[![Tests](https://github.com/artyom129/python-api-data-sync-tool/actions/workflows/tests.yml/badge.svg)](https://github.com/artyom129/python-api-data-sync-tool/actions/workflows/tests.yml)
-
 A Python automation pipeline for importing records from a REST API, cleaning and validating the data, preventing duplicates, storing clean records in SQLite, and exporting CSV and Excel reports.
 
 ## Business problem
@@ -22,7 +20,7 @@ Businesses often need to move API data into spreadsheets, CRMs, dashboards, or i
   - Clean Records
   - Invalid Records
   - Summary chart
-- Includes unit tests and GitHub Actions CI
+- Includes unit tests
 
 ## Tech stack
 
