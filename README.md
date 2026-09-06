@@ -1,3 +1,5 @@
+**English** | [Русский](README_RU.md)
+
 # Python API Data Sync Tool
 
 A Python automation pipeline for importing records from a REST API, cleaning and validating the data, preventing duplicates, storing clean records in SQLite, and exporting CSV and Excel reports.
